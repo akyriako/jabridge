@@ -2,3 +2,9 @@
 /firmware/
 /jabridge-debug*.txt
 /coverage.out
+/.idea/.gitignore
+/.idea/go.imports.xml
+/.idea/golinter.xml
+/.idea/jabridge.iml
+/.idea/modules.xml
+/.idea/vcs.xml
